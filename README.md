@@ -286,6 +286,8 @@ Ensure main class is set correctly
 
 ---
 
-Developer: Prabath Jayasuriya
-Module: CSE4006 - Object Oriented Programming
-Academic Year: 2025, Semester 2
+**Developer:** Prabath Jayasuriya
+
+**Module:** CSE4006 - Object Oriented Programming
+
+**Academic Year:** 2025, Semester 2
