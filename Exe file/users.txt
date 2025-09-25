@@ -1,0 +1,2 @@
+admin|admin123|HR Manager
+assistant|assistant123|HR Assistant

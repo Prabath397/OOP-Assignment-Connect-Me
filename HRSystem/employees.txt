@@ -1,0 +1,3 @@
+EMP_001|Kusal Perera|199973627|931715881334|Male|Single|new town, Colombo 4|0761234567|kusualp@gmail.com|DESIG_001|DEP_001|Permanent
+EMP_002|Mahesh Theekshana|200012678|963511295628|Male|Single|Hapugoda, Kandana|0771212567|MaheshT@gmail.com|DESIG_001|DEP_001|Intern
+EMP_003|Wanindu Hasaranga|199898348|905796254888|Male|Married|new town, Anuradhapura|0771827397|Hasaranga49@gmail.com|DESIG_001|DEP_002|Permanent

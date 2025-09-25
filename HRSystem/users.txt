@@ -1,0 +1,4 @@
+admin|admin123|HR Manager
+assistant|assistant123|HR Assistant
+udara|udara1234|HR Assistant
+John|John123|HR Assistant
