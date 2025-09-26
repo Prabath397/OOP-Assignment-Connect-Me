@@ -134,42 +134,42 @@ A comprehensive Java-based Human Resource Management System designed for "Connec
 2. Select user role (HR Manager or HR Assistant)
 3. Default HR Manager credentials:
 
-&nbsp;               Username: admin
-&nbsp;               Password: admin123
+     `Username: admin`
+     `Password: admin123`
 
 4. HR Assistant accounts must be created by HR Manager
 
 ### HR Manager Functions:
 
-*Department Management:*
+**1. Department Management:**
 
-Navigate to "Add New Department"
-Enter department details (ID, Name, Location, Contact, Description)
-Data automatically saves to departments.txt
+* Navigate to "Add New Department"
+* Enter department details (ID, Name, Location, Contact, Description)
+* Data automatically saves to departments.txt
 
-*Designation Management:*
+**2. Designation Management:**
 
-Access "Add New Designation"
-Link designations to existing departments
-Set basic salary and descriptions
+* Access "Add New Designation"
+* Link designations to existing departments
+* Set basic salary and descriptions
 
-*Employee Management:*
+**3. Employee Management:**
 
-Use "Add New Employee" for new hires
-Complete all required fields with validation
-Assign to departments and designations
+* Use "Add New Employee" for new hires
+* Complete all required fields with validation
+* Assign to departments and designations
 
-*HR Assistant Account Creation:*
+**4. HR Assistant Account Creation:**
 
-Go to "Manage HR Assistants"
-Create login credentials for assistants
-Accounts save to hr_assistants.txt
+* Go to "Manage HR Assistants"
+* Create login credentials for assistants
+* Accounts save to hr_assistants.txt
 
 ### Search Functionality:
 
-Search employees by various criteria (name, department, designation)
-Both HR Manager and Assistant can search
-Real-time filtering available
+* Search employees by various criteria (name, department, designation)
+* Both HR Manager and Assistant can search
+* Real-time filtering available
 
 ## 📁 Project Structure
 ```
@@ -235,7 +235,7 @@ Connect-Me-HR-System/
 
 └── documentation/                   # Project documentation
 
-&nbsp;   └── st20318341_CSE4006_WRIT1.docx
+                └── st20318341_CSE4006_WRIT1.docx
 ```
 
 ## 💻 Technical Implementation
@@ -248,41 +248,41 @@ Automatic file creation if not exists
 
 ### Validation:
 
-Field validation for required inputs
-Format checking (email, phone numbers)
-Data integrity maintenance
+* Field validation for required inputs
+* Format checking (email, phone numbers)
+* Data integrity maintenance
 
 ### GUI Components:
 
-Java Swing for interface
-Consistent theme and layout
-Responsive design
+* Java Swing for interface
+* Consistent theme and layout
+* Responsive design
 
 ## 🐛 Troubleshooting
 
 ### Common Issues:
 
-1. Login Failed
+**1. Login Failed**
 
-Verify username/password
-Check role selection
-Ensure data files exist
+* Verify username/password
+* Check role selection
+* Ensure data files exist
 
-2. File Not Found
+**2. File Not Found**
 
-Check if text files are in correct directory
-Verify file permissions
+* Check if text files are in correct directory
+* Verify file permissions
 
-3. Validation Errors
+**3. Validation Errors**
 
-Fill all required fields
-Check format requirements (10-digit phone numbers, valid email)
+* Fill all required fields
+* Check format requirements (10-digit phone numbers, valid email)
 
-4. Application Not Starting
+**4. Application Not Starting**
 
-Verify Java installation
-Check NetBeans project configuration
-Ensure main class is set correctly
+* Verify Java installation
+* Check NetBeans project configuration
+* Ensure main class is set correctly
 
 ---
 
